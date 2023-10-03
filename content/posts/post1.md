@@ -1,9 +1,5 @@
 ---
-title = "2010"
-subtitle = "Soleil"
-weight = 1
-image = ""
-chapitre = "oui"
+title: "Soleil"
 ---
 Jaune, parfois orange  
 Chaud  
