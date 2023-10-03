@@ -1,4 +1,30 @@
 ---
-title: "Soleil"
+chapter = "2010"
+date = "2010-05-31T10:01:00.000+00:00"
+image = ""
+title = "Soleil"
+weight = 1
+chapitre = "oui"
 ---
-Test  
+Jaune, parfois orange  
+Chaud  
+brillant  
+Aveuglant  
+Une étoile  
+Qui ne peut être sanglante  
+Telle une force divine  
+Il nous attire  
+De cire, personnellement  
+J'aimerais qu'il soit  
+
+
+Toujours là, toujours présent  
+Comme un ami, le meilleur  
+Partout, il nous suit  
+jusqu'à miami  
+Qui est-ce?  
+Difficile  
+Chaud, brillant  
+Unique  
+Une étoile  
+**Le soleil**
