@@ -1,9 +1,11 @@
 ---
 title: "Soleil"
 image: "/images/soleil.png" 
+weight: "1"
 ---
 
-Jaune, parfois orange  
+Jaune  
+parfois orange  
 Chaud  
 brillant  
 Aveuglant  
