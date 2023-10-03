@@ -1,4 +1,4 @@
-auteur = "Auteur"
+auteur = "Kim Blanchard"
 bloctexte = "justify"
 copyright = "CC BY-NC-SA"
 couverture = "/uploads/couverture.png"
@@ -14,5 +14,5 @@ mention = "Fabrique"
 quatrieme = "oui"
 readingtime = "oui"
 search = false
-soustitre = "Sous-titre"
-titre = "Titre"
+soustitre = "Recueil de textes"
+titre = "Carnet d'écriture no 1"
