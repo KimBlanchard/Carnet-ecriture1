@@ -1,6 +1,8 @@
 ---
 title: "Soleil"
+image: "/images/soleil.png" 
 ---
+
 Jaune, parfois orange  
 Chaud  
 brillant  
