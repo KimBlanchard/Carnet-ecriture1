@@ -1,8 +1,8 @@
 ---
 title: "Soleil"
 weight: "1"
-image: "![image](/images/soleil.png)"
 ---
+![soleil](/images/soleil.png)
 
 Jaune  
 parfois orange  
