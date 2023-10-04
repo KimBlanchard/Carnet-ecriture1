@@ -1,7 +1,7 @@
 ---
 title: "Soleil"
-image: "/images/soleil.png" 
 weight: "1"
+![image](/images/soleil.png)
 ---
 
 Jaune  
