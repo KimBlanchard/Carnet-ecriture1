@@ -1,6 +1,10 @@
 ---
+Chapter: "2014"
 title: "Étrangère"
+weight: "2"
+Chapitre: "oui"
 ---
+
 Elle pensait qu’elle serait heureuse  
 Elle pensait pouvoir changer de vie en changeant de ville  
 Elle pensait s’habituer à la rapidité de la métropole  
