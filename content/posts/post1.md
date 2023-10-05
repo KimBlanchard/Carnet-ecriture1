@@ -15,8 +15,7 @@ Qui ne peut être sanglante
 Telle une force divine  
 Il nous attire  
 De cire, personnellement  
-J'aimerais qu'il soit  
-
+J'aimerais qu'il soit
 
 Toujours là, toujours présent  
 Comme un ami, le meilleur  
