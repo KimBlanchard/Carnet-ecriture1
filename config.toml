@@ -22,10 +22,6 @@ identifier = "credits"
 name = "Crédits"
 url = "/credits"
 weight = 3
-[[.main]]
-identifier = "soleil"
-name = "Soleil"
-url = "/soleil"
 [outputs]
 home = ["HTML"]
 page = ["HTML"]
