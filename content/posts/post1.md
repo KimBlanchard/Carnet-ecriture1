@@ -1,5 +1,9 @@
 ---
-title: "2010"
+Chapter: "2010"
+title: "Soleil"
+image: "/images/soleil.png"
+weight: "1"
+Chapitre: "oui"
 ---
-## [Soleil](/content/pages/soleil.md)
+## Soleil
 ![soleil](/images/soleil.png)
