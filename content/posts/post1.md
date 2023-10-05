@@ -1,7 +1,7 @@
 ---
 Chapter: "2010"
 title: "Soleil"
-image: "/static/images/soleil.png"
+image: "/images/Logo.png"
 weight: "1"
 Chapitre: "oui"
 ---
