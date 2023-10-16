@@ -20,4 +20,5 @@ Ne voyez pas dans ma lettre une prétention quelconque. Je sais que pour critiqu
 
 Au plaisir!
 
-[^1] : L'Instant Même. (s.d.). _Le cris des coquillage_ [](https://instantmeme.com/livres/le-cri-des-coquillages/)
+
+[^1]: L'Instant Même. (s.d.). _Le cris des coquillage_ [](https://instantmeme.com/livres/le-cri-des-coquillages/)
