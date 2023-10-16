@@ -15,6 +15,12 @@
   </url>
   
   <url>
+    <loc>/pour-vous/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/post4/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -28,12 +34,6 @@
   
   <url>
     <loc>/post2/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/post6/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
