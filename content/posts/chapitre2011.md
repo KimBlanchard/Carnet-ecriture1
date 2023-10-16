@@ -13,7 +13,7 @@ Isolée avec mon _iPod_ dans ma chambre, ma mère a remarqué mon trouble et est
 À ce moment-là, mon choix était fait. J'ai compris.  
 
 Même si le choix était déchirant 
-Même si cela risquait d'être douloureux  
+Même si cela risquait d'être douloureux 
 Même si çca risque de me faire du mal au plus haut point  
 
 Je vais le quitter et refaire ma vie sans lui.
