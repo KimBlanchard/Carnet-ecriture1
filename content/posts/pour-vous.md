@@ -5,7 +5,7 @@ weight: "2"
 Chapitre: "Oui"
 ---
 ## Pour vous
-![Le cris des coquillages](/static/images/cris-coquillages.jpg)  
+![Le cris des coquillages](/static/images/cris-coquillage.jpg)  
 
 Bonjour Mme Massicotte,  
 Ma lettre ne sera ni la première ni la dernière que vous lirez aujourd’hui. Par contre, je vous informe que j’ai choisi de lire, comme la plupart des étudiants, le recueil de nouvelles _Le cris des coquillages_. J’ai choisi ce recueil, à cause de son résumé[^1]:
