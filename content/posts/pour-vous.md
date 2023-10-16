@@ -5,9 +5,9 @@ weight: "2"
 Chapitre: "Oui"
 ---
 ## Pour vous
-
+![Le cris des coquillages](/images/cris-coquillages.jpg)
 Bonjour Mme Massicotte,  
-Ma lettre ne sera ni la première ni la dernière que vous lirez aujourd’hui. Par contre, je vous informe que j’ai choisi de lire, comme la plupart des étudiants, le recueil de nouvelles _![Le cri des coquillages](/images/cris-coquillages.jpg)_. J’ai choisi ce recueil, à cause de son résumé [1]:
+Ma lettre ne sera ni la première ni la dernière que vous lirez aujourd’hui. Par contre, je vous informe que j’ai choisi de lire, comme la plupart des étudiants, le recueil de nouvelles _Le cris des coquillages_. J’ai choisi ce recueil, à cause de son résumé [1]:
 >Un désert, un rivage, la sortie de l’école, une naissance, le retour dans un paysage d’enfance : en certains lieux, en certaines circonstances, le monde s’étale et ressemble à ce qu’il aurait pu être. L’heure est aux déchéances, l’on se penche sur un coquillage en cherchant à déchiffrer ce qu’un burin liquide y a gravé, à lire ce qui fait défaut au fond de soi, à entendre l’oracle à la voix salée.
 >Sylvie Massicotte se livre dans _Le cri des coquillages_ à la spirale des vides et des pleins, où l’imagination adopte une figure matricielle.
 
