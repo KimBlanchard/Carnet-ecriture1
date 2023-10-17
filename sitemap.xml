@@ -27,12 +27,6 @@
   </url>
   
   <url>
-    <loc>/post2/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>/chapitre-2013/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -40,6 +34,12 @@
   
   <url>
     <loc>/post7/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/chapitre2014/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
