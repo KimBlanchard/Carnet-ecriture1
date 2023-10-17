@@ -551,7 +551,7 @@ code.highlighter-rouge {
 
 // base
 body {
-  background: $brand-color;
+  background: #f0f8ff ;
   color: $text-color;
   font-family: $font-family;
   font-size: 1.3125em;
@@ -562,6 +562,7 @@ h1 {
   font-size: 3em;
   margin: .5em auto;
   font-family: $font-family;
+  text-align: left;
 }
 
 h1.gothic {
@@ -573,7 +574,7 @@ h1.gothic {
 h2 {
   font-size: 2em;
   margin: 1em auto;
-  text-align: center;
+  text-align: left;
 }
 
 h3 {
@@ -864,7 +865,7 @@ figcaption {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    text-align: center;
+    text-align: right;
 
     >* {
       flex-grow: 1;
@@ -911,14 +912,9 @@ figcaption {
     font-size: 2em;
     max-width: 36rem;
     padding: 2em 1em;
-    text-align: left;
+    text-align: center;
   }
-  .post>h2 {
-    font-size: 1em;
-    max-width: 24rem;
-    padding: 1em 1em;
-    text-align: left;
-  }
+  
   .post p {
     text-align: justify;
     text-justify: inter-word;
