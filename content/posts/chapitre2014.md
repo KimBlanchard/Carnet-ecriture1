@@ -13,7 +13,7 @@ Elle pensait qu’en se promenant dans les rues et qu’en visitant la ville aux
 Mais ce n’est pas le cas.  
 
 1 700 000
-Un million sept cent mille personnes y vivent et pourtant, elle se sent seul.  
+Un million sept cent mille personnes y vivent et pourtant, elle se sent [seule](/chapitre2012/).  
 Elle regrette son départ.  
 Elle regrettre sa petite ville.  
 Elle se sent perdue, invisible, décallée.  
@@ -30,6 +30,6 @@ Alors, elle attend.
 Elle erre comme un âme en peine.  
 
 Une âme sur un million
-Perdue
+[Perdue](/chapitreni2011/)
 Décalée
 Étrangère
