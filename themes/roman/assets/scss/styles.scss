@@ -916,7 +916,6 @@ figcaption {
 
   .post p {
     text-align: justify;
-    text-indent: 1.5em;
     text-justify: inter-word;
   }
 
@@ -932,12 +931,12 @@ figcaption {
   .post dl,
   .post ul,
   .post ol {
-    margin: 1.5em;
+    margin: 1em;
   }
 
   .post li {
-    margin-left: 1.5rem;
-    margin-right: 1.5rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
   }
 
   .post-content:first-child {
