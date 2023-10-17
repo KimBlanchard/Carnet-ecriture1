@@ -1,5 +1,5 @@
 ---
-Chapter: "COnfirmé"
+Chapter: "Confirmé"
 title: "2014"
 weight: "6"
 Chapitre: "oui"
