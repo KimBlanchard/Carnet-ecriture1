@@ -1,7 +1,7 @@
 ---
-Chapter: "2014"
-title: ""
-weight: "5"
+Chapter: "COnfirmé"
+title: "2014"
+weight: "6"
 Chapitre: "oui"
 ---
 ## Étrangère
@@ -18,10 +18,12 @@ Elle regrette son départ.
 Elle regrettre sa petite ville.  
 Elle se sent perdue, invisible, décallée.  
 
+
 Trop grand  
 Trop coincé  
 Trop différent  
 Trop trop  
+
 
 Mais elle ne peut partir, revenir  
 Alors, elle attend.  
