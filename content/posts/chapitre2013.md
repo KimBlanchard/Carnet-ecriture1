@@ -42,7 +42,7 @@ Lorsque mon corps fut trop plein.
 Que ma misère intérieure déborda enfin.  
 Je vous est surpris.
 
-Un cri  
+Un [cri](/content/posts/chapitre2011)  
 Peut-être trop fort  
 A surgit de ma petite personne  
 
