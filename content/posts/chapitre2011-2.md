@@ -1,6 +1,6 @@
 ---
-Chapter: "05-2011"
-title: "Niveau débutant"
+Chapter: "mi-2011"
+title: "Débutant"
 weight: "3"
 Chapitre: "Oui"
 ---
@@ -14,6 +14,6 @@ Isolée avec mon _iPod_ dans ma chambre, ma mère a remarqué mon trouble et est
 
 Même si le choix était déchirant 
 Même si cela risquait d'être douloureux 
-Même si çca risque de me faire du mal au plus haut point  
+Même si ça risque de me faire du mal au plus haut point  
 
 Je vais le quitter et refaire ma vie sans lui.
