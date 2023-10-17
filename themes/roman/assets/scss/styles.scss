@@ -168,7 +168,7 @@ select {
 }
 
 // variables
-$brand-color: #ffffff;
+$brand-color: #f0f8ff ;
 $highlight: lighten($brand-color, 35%);
 $text-color: #0b0404;
 $muted-text-color: #64644B;
@@ -578,30 +578,30 @@ h2 {
 }
 
 h3 {
-  font-size: 1.5em;
+  font-size: 1em;
   margin: 1.3333em auto;
-  text-align: center;
+  text-align: left;
 }
 
 h4 {
   font-size: 1.25em;
   font-style: italic;
   margin: 1.875em auto;
-  text-align: center;
+  text-align: left;
 }
 
 h5 {
   font-size: 1em;
   font-style: italic;
   margin: 2em auto;
-  text-align: center;
+  text-align: left;
 }
 
 h6 {
   font-size: .875em;
   font-style: italic;
   margin: 2.25em auto;
-  text-align: center;
+  text-align: left;
 }
 
 em {
