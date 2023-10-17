@@ -5,9 +5,9 @@
   <header class="site-masthead">
     <h1 class="gothic">{{ .Site.Params.titre }}</h1>
     <h2>{{ .Site.Params.auteur }}</h2>
-    <img src="{{ .Site.Params.logo }}" style="width: 150px;">
+    <img src="{{ .Site.Params.logo }}" style="width: 350px;">
   </header>
-  <main class="home" id="main" role="main" aria-label="Content">
+  <main class="home" id="main" role="main" aria-label="Tables des chapitres">
     <h1 class="content-title divided">Tables des chapitres</h1>
       <ul class="post-list">
         {{ range (.Paginate ( where .Site.RegularPages "Section" "posts" ).ByWeight).Pages }}
