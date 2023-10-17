@@ -1,5 +1,5 @@
 ---
-Chapter: "Niveau intermédiaire"
+Chapter: "Intermédiaire"
 title: "2012"
 weight: "4"
 Chapitre: "oui"
