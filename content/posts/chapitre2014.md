@@ -29,7 +29,7 @@ Mais elle ne peut partir, revenir
 Alors, elle attend.  
 Elle erre comme un âme en peine.  
 
-Une âme sur un million
-[Perdue](/chapitreni2011/)
-Décalée
+Une âme sur un million  
+[Perdue](/chapitremi2011/)  
+Décalée  
 Étrangère
